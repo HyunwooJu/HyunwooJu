@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@hyunwooju/posts](https://velog.io/@hyunwooju/posts)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**, **TypeScript** 
 
 - 📫 How to reach me **soc05104@gmail.com**
 
