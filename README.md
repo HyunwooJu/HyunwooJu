@@ -17,5 +17,5 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyunwooju&show_icons=true&locale=en&layout=compact" alt="hyunwooju" style="height: 165px;" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HyunwooJu" alt="GitHub Streak" /></a>
+<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HyunwooJu" alt="GitHub Streak" /></a> -->
 </div>
